@@ -28,7 +28,6 @@ function switchClicked(button) {
     });
 }
 
-// # TODO - how to get the damn status
 function getStatus() {
   fetch(`/status`)
     .then(function (response) {
