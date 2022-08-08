@@ -11,7 +11,7 @@ My needs are quite simply, a single socket, which I can use to turn on and off a
 
 Nothing more, nothing less. 
 
-As such, the code here is hacked together, view the original repo from where I got part of my solution.
+As such, the code here is hacked together, [view the repo](https://github.com/penguintutor/pi-power) from where I got part of my solution.
 
 The bad hacking, is the python work - still haven't cleaned that up, but it's pretty much single socket only now.
 If I need two sockets, I'll add to it. Some bits of laziness here, but I wasn't keen to go the "whole hog" and remove ALL multi-socket functionality, lest I decide to employ the second socket I got with my kit. Then I'll rewrite it.
