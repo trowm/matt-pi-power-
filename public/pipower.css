@@ -1,0 +1,36 @@
+body,
+html {
+    padding: 0;
+    margin: 0;
+}
+
+.switch {
+    height: 100vh;
+    display: flex;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    position: relative;
+    font-size: 30em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    transition: background-color 0.2s ease;
+}
+
+.switch[data-id="false"] {
+    background-color: red;
+}
+
+.switch[data-id="false"]::before {
+    position: absolute;
+    content: "O";
+}
+
+.switch[data-id="true"] {
+    background-color: green;
+}
+
+.switch[data-id="true"]::before {
+    position: absolute;
+    content: "I";
+}
