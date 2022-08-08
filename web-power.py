@@ -33,7 +33,7 @@ PORT = 80
 
 # Folder where this is installed and the index.html file is located
 # The index.html file is exposed to the webserver as well as any files in a subdirectory called public (ie. /home/pi/pi-power/public) 
-DOCUMENT_ROOT = '/home/pi/pi-power'
+DOCUMENT_ROOT = '/home/pi/matt-pi-power-'
 
 # Create the bottle web server
 app = bottle.Bottle()
