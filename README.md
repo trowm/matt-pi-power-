@@ -28,10 +28,10 @@ All I wanted, in the web-interface, is to KNOW the status and to be able to over
 
 ## Some resources
 
-[penguintutor/pi-power](https://github.com/penguintutor/pi-power)
-[gpiozero/Energenie](https://gpiozero.readthedocs.io/en/stable/api_boards.html?highlight=Energenie#gpiozero.Energenie)
-[Product - Pi-mote Control starter kit with 2 sockets](https://energenie4u.co.uk/catalogue/product/ENER002-2PI)
-[Python docs](https://docs.python.org/3/)
+* [penguintutor/pi-power](https://github.com/penguintutor/pi-power)
+* [gpiozero/Energenie](https://gpiozero.readthedocs.io/en/stable/api_boards.html?highlight=Energenie#gpiozero.Energenie)
+* [Product - Pi-mote Control starter kit with 2 sockets](https://energenie4u.co.uk/catalogue/product/ENER002-2PI)
+* [Python docs](https://docs.python.org/3/)
 
 
 # Credits due
