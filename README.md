@@ -24,7 +24,7 @@ If I decide to start work a little early, in colder months, rather than relying 
 I've also added the concept of "status" of the switch, by way of writing 'true' or 'false' to a file.
 Because the pi-mote is a closed loop, there's NO way to actually get the status of a socket. None. Zip. Nada.
 
-All I wanted, in the web-interface, is to KNOW the status and to be able to overide the cron-job I setup, compliments to [Pengin Tutor - pi-power](http://www.penguintutor.com/raspberrypi/pi-power)
+All I wanted, in the web-interface, is to KNOW the status and to be able to overide the cron-job I setup, cron-job info compliments to [Pengin Tutor - pi-power](http://www.penguintutor.com/raspberrypi/pi-power)
 
 ## Some resources
 
